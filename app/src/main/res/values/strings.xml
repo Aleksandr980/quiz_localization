@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">M9_quiz_localization</string>
+    <string name="title_activity_navigation">Quiz</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Greeting</string>
+    <string name="second_fragment_label">Survey</string>
+    <string name="third_fragment_label">Result</string>
+    <string name="begin">To begin</string>
+    <string name="birth">Enter your date of birth</string>
+    <string name="next">Send</string>
+    <string name="previous">Back</string>
+    <string name="beginStart">Start over</string>
+
+    <string name="hello_first_fragment">Greeting</string>
+    <string name="hello_second_fragment">Survey</string>
+    <string name="hello_third_fragment">Result</string>
+
+    <string name="textview_second1" Translatable="false">1.What year is St. Petersburg is birthday?</string>
+    <string name="textview_second2" Translatable="false">Response options:</string>
+    <string name="textview_second3" Translatable="false">1. 1901г.</string>
+    <string name="textview_second4" Translatable="false">2. 1857г.</string>
+    <string name="textview_second5" Translatable="false">3. 1703г.</string>
+
+    <string name="textview_second6" Translatable="false">2. Capital of China?</string>
+    <string name="textview_second7" Translatable="false">Response options:</string>
+    <string name="textview_second8" Translatable="false">1. Beijing</string>
+    <string name="textview_second9" Translatable="false">2. Wuhan</string>
+    <string name="textview_second10" Translatable="false">3. Shanghai</string>
+
+    <string name="textview_second11" Translatable="false">3. How many bridges are there in Moscow?</string>
+    <string name="textview_second12" Translatable="false">Response options:</string>
+    <string name="textview_second13" Translatable="false">1. 553</string>
+    <string name="textview_second14" Translatable="false">2. 452</string>
+    <string name="textview_second15" Translatable="false">3. 257</string>
+
+    <string name="choose_the_data" Translatable="false">Date Dialog</string>
+</resources>

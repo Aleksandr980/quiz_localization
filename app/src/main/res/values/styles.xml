@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ScrollView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+<style name="CustomAnimation">
+    <item name="android:windowExitAnimation">@anim/animation_2</item>
+    <item name="android:windowEnterAnimation">@anim/animation_1</item>
+</style>
+
+</resources>
